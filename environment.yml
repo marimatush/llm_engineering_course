@@ -44,5 +44,6 @@ dependencies:
     - feedparser
     - twilio
     - pydub
+    - playwright
     - protobuf==3.20.2
     - wandb
